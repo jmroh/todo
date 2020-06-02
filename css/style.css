@@ -156,4 +156,7 @@ ul {
         font-size: 18px;
         margin-bottom: 10px;
     }
+   .center .name__input {
+        font-size: 18px;
+    }
 }
