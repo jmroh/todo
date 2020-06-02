@@ -150,15 +150,15 @@ ul {
         font-size: 4em;
     }
     .toDo {
-        font-size: 1em;
+        font-size: 1.5em;
     }
     .center .name__text {
-        font-size: 1em;
+        font-size: 1.5em;
     }
    .center .name__input {
         font-size: 1em;
     }
    .greetings {
-        font-size: 1em;
+        font-size: 1.5em;
     }
 }
