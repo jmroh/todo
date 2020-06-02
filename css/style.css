@@ -150,16 +150,16 @@ ul {
         font-size: 4em;
     }
     .toDo {
-        font-size: 11px;
+        font-size: 1em;
     }
     .center .name__text {
-        font-size: 18px;
+        font-size: 1em;
     }
    .center .name__input {
-        font-size: 18px;
+        font-size: 1em;
     }
     .greetings {
-        font-size: 18px;
+        font-size: 1em;
     }
 }
 }
