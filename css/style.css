@@ -144,3 +144,16 @@ ul {
 ul {
     margin-top: 50px;
 }
+
+@media (max-width: 900px) {
+    .clock {
+        font-size: 4em;
+    }
+    .toDo {
+        font-size: 11px;
+    }
+    .center .name__text {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+}
