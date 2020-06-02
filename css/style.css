@@ -158,4 +158,8 @@ ul {
    .center .name__input {
         font-size: 18px;
     }
+    .greetings {
+        font-size: 18px;
+    }
+}
 }
