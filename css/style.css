@@ -163,7 +163,14 @@ ul {
     }
 
     ul {
-        margin-top: 20px;
+        margin-top: 10px;
+    }
+    .center .name__text {
+        margin-bottom: 10px;
+    }
+  
+    .center .name {
+        margin-bottom: 10px;
     }
 
 }
